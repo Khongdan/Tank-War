@@ -75,10 +75,6 @@ DoAn_UNITY/
 │       └── UI/             # AimSliderBillboard.cs
 ├── Packages/               # Các gói phụ thuộc Unity Engine
 ├── ProjectSettings/        # Cấu hình dự án (Tags, Layers, Input, Quality)
-├── BaoCao_DoAn_TuongTacAo_Unity3D.doc          # Báo cáo Đồ án môn học (.doc)
-├── BaoCao_DoAn_TuongTacAo_Unity3D.md           # Báo cáo Đồ án môn học (.md)
-├── PhanTichThietKeHeThong_Tanks_ForestWarfare.doc # Báo cáo Phân tích Thiết kế Hệ thống (.doc)
-├── PhanTichThietKeHeThong_Tanks_ForestWarfare.md  # Báo cáo Phân tích Thiết kế Hệ thống (.md)
 └── README.md
 ```
 

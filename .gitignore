@@ -73,3 +73,7 @@ crashlytics-build.properties
 *.slnx
 *.log
 .vscode/
+
+# Project reports
+BaoCao_DoAn_TuongTacAo_Unity3D.*
+PhanTichThietKeHeThong_Tanks_ForestWarfare.*
